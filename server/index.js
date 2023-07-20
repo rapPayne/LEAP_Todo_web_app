@@ -3,7 +3,7 @@ const app = express();
 const port = 4000;
 
 app.use(express.json());
-app.use(express.static('public'));
+app.use(express.static('../client'));
 const todos = [
   { id: 1, priority: 1, description: 'Cure cancer' },
   { id: 2, priority: 2, description: 'Prove moon landing was a hoax' },
