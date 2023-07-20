@@ -10,7 +10,7 @@ For the Fidelity LEAP program
 
 ## Todo
 
-1. The user should be able to add todo items.
+1. ~~The user should be able to add todo items.~~
 2. There should be a 'completed' date.
 3. There should be an 'added' date.
 4. Users can delete todo items.
